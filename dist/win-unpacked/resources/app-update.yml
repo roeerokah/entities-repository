@@ -1,0 +1,4 @@
+owner: roee264
+repo: entities-repository
+provider: github
+updaterCacheDirName: entities-repo-updater
